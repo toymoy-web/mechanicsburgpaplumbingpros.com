@@ -1,0 +1,2 @@
+# Cloudflare Pages resolves clean URLs + directory index natively.
+# No 200/301 rules here on purpose — see build-standards rule on redirect loops.

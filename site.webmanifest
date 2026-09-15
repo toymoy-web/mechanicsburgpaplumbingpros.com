@@ -1,0 +1,12 @@
+{
+  "name": "Mechanicsburg Plumbing Pros",
+  "short_name": "MB Plumbing Pros",
+  "display": "browser",
+  "start_url": "/",
+  "theme_color": "#0B1B2B",
+  "background_color": "#ffffff",
+  "icons": [
+    {"src": "/assets/img/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "/assets/img/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}

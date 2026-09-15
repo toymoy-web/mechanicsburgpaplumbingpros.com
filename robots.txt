@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mechanicsburgpaplumbingpros.com/sitemap.xml
